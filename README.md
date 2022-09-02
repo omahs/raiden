@@ -66,16 +66,16 @@ The Raiden Network is getting created with a set of tools, which are maintained 
 
 - A [configured matrix server](https://github.com/raiden-network/raiden-transport) joins a federation of Matrix servers which is used as the transport layer for the Raiden Network.
 
-- The [Service repository](https://github.com/raiden-network/raiden-services) contains the code for following services:
-    - The Monitoring Service watches open payment channels when the user is not on-line.
+- The [Service repository](https://github.com/raiden-network/raiden-services) contains the code for the following services:
+    - The Monitoring Service watches open payment channels when the user is not online.
     - The Pathfinding service supports users in finding the cheapest or shortest way to route a payment through the network.
 
-- The [Light Client repository](https://github.com/raiden-network/light-client) contains the code for following applications:
+- The [Light Client repository](https://github.com/raiden-network/light-client) contains the code for the following applications:
     - The Raiden Light Client SDK is a Raiden Network compatible client written in JavaScript/Typescript.
     - The Raiden DApp is a reference implementation of the Raiden Light Client SDK.
 
 ### Tools
-- The [Raiden WebUI](https://github.com/raiden-network/webui) is Raiden Web User Inteface to manage channels and make token transfers.
+- The [Raiden WebUI](https://github.com/raiden-network/webui) is Raiden Web User Interface to manage channels and make token transfers.
 
 - The [Raiden Explorer](https://github.com/raiden-network/explorer) visualizes the nodes of the Raiden Networks and shows more statistical information.
 
